@@ -1,0 +1,135 @@
+@media screen and (max-width:475PX){
+  ul{
+      display: none;
+  }
+  .ri-menu-2-line{
+     display: inline;
+  }
+  .booking-section{
+    width: 90%;
+  }
+  
+.about{
+  margin-top: 150px;
+}
+.about-content{
+  width: 80%;
+  height: auto;
+}
+.about-content-details{
+  padding: 0;
+}
+.text01{
+  font-size: 0.9rem;
+  margin-top: 0;
+}
+.text02{
+  font-size: 1.1rem;
+  margin: 0;
+  
+}
+.text03{ 
+  font-size: 0.6rem;
+  margin:0;
+}
+.rooms{
+  margin-top: 50px;
+  width: 100%;
+}
+.grid{
+  margin: 10px 0;
+  width: 350px;
+}
+.services{
+  margin-top: 10px;
+}
+.explore{
+  margin-top: 30px;
+}
+.ex-numbers{
+  width: 80%;
+  justify-content: center;
+}
+.num{
+  width: 170px;
+}
+}
+
+@media screen and (max-width:640px){
+  .booking-section{
+    top: 75vh;
+    width: 80%;
+  }
+  
+.about{
+  margin-top: 200px;
+  height: 150px;
+}
+  .about-content-details{
+    padding: 0;
+  }
+  .text01{
+    font-size: 1rem;
+    margin-top: 0;
+  }
+  .text02{
+    font-size: 1.4rem;
+    margin:0;
+  }
+  .text03{
+    font-size: 0.8rem;
+    margin-bottom: 5px;
+  }
+  .rooms{
+    margin-top: 0px;
+  }
+  .grid{
+  margin: 10px 0;
+  }
+  .services{
+    margin-top: 20px;
+  }
+  .explore{
+    margin-top: 30px;
+  }
+  .ex-numbers{
+    width: 90%;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width:840px) {
+  ul{
+    display: none;
+  }
+  .about{
+    margin-top: 150px;
+  }
+  .about-content-details{
+    padding: 0;
+  }
+  .text01{
+    font-size: 1rem;
+    margin-top: 5px;
+  }
+  .text02{
+    font-size: 1.7rem;
+    margin: 5px 0;
+  }
+  .text03{
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+  .rooms{
+    margin-top: 20px;
+  }
+  .explore{
+    margin-top: 30px;
+  }
+  .ex-numbers{
+    width: 90%;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+  }
+}

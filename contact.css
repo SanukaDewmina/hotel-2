@@ -1,0 +1,54 @@
+.footer{
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-content{
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.con1{
+  width: 200px;
+  height: 200px;
+}
+.con-title{
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 700;  
+  color: white;
+  font-size: 1.3rem;
+  padding:20px 0 15px 0;
+}
+.con-title2{
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 400;
+  color: white;
+  margin: 2px 0;
+  font-size: 1rem;
+  
+}
+
+.ri-facebook-box-fill,.ri-whatsapp-fill,.ri-youtube-fill,.ri-twitter-x-fill{
+  color: white;
+  margin-right: 10px;
+  font-size: 1.3rem;
+}
+
+/* final styles */
+.content-rig-box{
+  padding: 30px;
+  width: 100%;
+  background-color: black;
+
+}
+.content-right{
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 400;
+   letter-spacing: 2px;
+  color: white;
+  font-size: 0.8rem;
+  text-align: center;
+}
